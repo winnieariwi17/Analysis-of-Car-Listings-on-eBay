@@ -2,10 +2,10 @@
 I will be working with a dataset originally scraped from Kaggle and will clean it and perform some analysis in order to get a better understanding of pandas and Jupyter environment
 The data dictionary provided with data is as follows:
 
--dateCrawled - When this ad was first crawled. All field-values are taken from this date.
--name - Name of the car.
--seller - Whether the seller is private or a dealer.
--offerType - The type of listing
+- dateCrawled - When this ad was first crawled. All field-values are taken from this date.
+- name - Name of the car.
+- seller - Whether the seller is private or a dealer.
+- offerType - The type of listing
 -price - The price on the ad to sell the car.
 -abtest - Whether the listing is included in an A/B test.
 -vehicleType - The vehicle Type.
